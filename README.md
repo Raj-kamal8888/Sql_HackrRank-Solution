@@ -1,1 +1,1 @@
-# Sql_HackrRank-Solution
+# Sql_HackerRank-Solution
